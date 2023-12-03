@@ -1,0 +1,12 @@
+Completed - 2 videos(PLSQL Tutorial#02 Hello word Program in PLSQL)
+EqualConnect Coach
+---------------------------------------------------------------------------
+-> It is a programming language which is provided by the Oracle for the database purpose.
+
+->This is Printing any program in plsql.
+
+begin
+
+DBMS_OUTPUT.PUT_LINE('My Hello world Program')
+
+end
